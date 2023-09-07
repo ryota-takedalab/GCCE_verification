@@ -1,8 +1,8 @@
 # GCCE_verification
 This repo is the verification code for "Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation From Inertial Sensors."
 
-# Example of sensing results using IMU
-We used Perception Neuron 3, inertial sensor units from NOITOM, to analyze figure skating jumps.
+# Example of sensing results using IMUs
+We used Perception Neuron 3 (NOITOM, USA) to analyze figure skating jumps.
 
 ![Sensing results using IMU](https://github.com/ryota-takedalab/GCCE_verification/assets/102862947/32e15852-7197-4cc5-ad77-ad97d554a7d0)
 

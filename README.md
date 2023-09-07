@@ -8,7 +8,9 @@ We used Perception Neuron 3 (NOITOM, USA) to analyze figure skating jumps.
 
 # Usage
 You can validate our paper's data using the following code.
+
 `python main.py training.csv`
+
 By default, The model is trained using preprocessed data of 17 joint position coordinates of the whole body and the left skate pose angle, each at 60 fps.
 
 The joint position coordinates and the left skate pose angle can each be downsampled to 12 fps using the option `--pos_fps 12` and `--rot fps 12`.
